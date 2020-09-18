@@ -119,6 +119,7 @@ body {
 
 .footer {
     font-family: 'Red Hat Display', sans-serif;
+    background-color: darkgray;
     text-align: center;
     padding-top: 35px;
     padding-bottom: 5px;
