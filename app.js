@@ -25,7 +25,7 @@ $.ajax({ url: sheetAsJSON })
 
 const app = (projects) => {
 
-    for(let i = 0; i < 3; i++) {
+    for(let i = 0; i < 7; i++) {
             let project = projects[i]
 
             const $div = $(`<div class="card" style="width: 18rem;">
